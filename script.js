@@ -54,7 +54,7 @@ async function getPhotos(){
 
 
     }catch(error){
-        // catch error
+        console.log(error);
     }
 }
 
